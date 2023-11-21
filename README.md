@@ -1,4 +1,4 @@
-# Result🎯
+# App Result🎯
 ![image](https://github.com/Fir3eye/pr_01_docker_push_img/assets/93431222/cb8418ff-827f-4090-8270-0be2e448120f)
 
 ## 📢Kubernetes Application Deployment Tutorial 🚀
