@@ -11,11 +11,13 @@ git clone https://github.com/Fir3eye/1-Node.js.git
 apt install npm 
 ```
 ## ♻️Install Package and Dependency 
+```
 npm install
-
+```
 ## ☣️Run the app
+```
 node index.js
-
+```
 ## 🎢Access the app  `use your server IP : 3000`
 ```
 your_server_ip:3000
